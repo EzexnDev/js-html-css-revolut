@@ -96,6 +96,10 @@ nav ul li a.selected, nav ul li a:hover {
   padding: 20px 30px;
 }
 
+.dropdown.active{
+  display: block;
+}
+
 .has-dropdown i{
   margin-left: 8px;
 }
